@@ -1,1 +1,3 @@
 # PasswordCracker-CSCI345
+
+Noah Drake and Jacob Roddam's password cracker...
